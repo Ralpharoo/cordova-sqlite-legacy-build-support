@@ -5,11 +5,7 @@
   "cordova": {
     "id": "cordova-sqlite-legacy-build-support",
     "platforms": [
-      "android",
       "ios",
-      "osx",
-      "windows",
-      "wp8"
     ]
   },
   "repository": {
